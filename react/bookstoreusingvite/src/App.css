@@ -1,0 +1,32 @@
+.book{
+
+  border: 5px solid red;
+  border-radius: 10px;
+  background-color: aqua;
+  width: 25%;
+  padding: 30px;
+  align-content: center;
+  
+  
+}
+.header{
+  background-color: black;
+  display: flex;
+  color: aliceblue;
+
+  justify-content: center;  
+}
+
+.footer{
+  bottom: 2px;
+  background-color: black;
+  display: flex;
+  width: screen;
+  margin-top:10px;
+  color: aliceblue;
+  justify-content: center; 
+}
+.butt{
+  display: flex;
+  height: 40px;
+}
